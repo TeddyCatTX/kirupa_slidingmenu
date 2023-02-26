@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kirupa_slidingmenu/static/css/main.e01ae0f7.css",
+    "main.js": "/kirupa_slidingmenu/static/js/main.aa62c877.js",
+    "index.html": "/kirupa_slidingmenu/index.html",
+    "main.e01ae0f7.css.map": "/kirupa_slidingmenu/static/css/main.e01ae0f7.css.map",
+    "main.aa62c877.js.map": "/kirupa_slidingmenu/static/js/main.aa62c877.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e01ae0f7.css",
+    "static/js/main.aa62c877.js"
+  ]
+}
